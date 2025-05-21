@@ -1,0 +1,16 @@
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\bin\Debug\net6.0\Resources.deps.json
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\bin\Debug\net6.0\Resources.dll
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\bin\Debug\net6.0\Resources.pdb
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.csproj.AssemblyReference.cache
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.ResponseResources.ResponseCode.resources
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.ResponseResources.ResponseMessage.resources
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.SqlResources.SqlResources.resources
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.csproj.GenerateResource.cache
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.AssemblyInfoInputs.cache
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.AssemblyInfo.cs
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.csproj.CoreCompileInputs.cache
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.dll
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\refint\Resources.dll
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\Resources.pdb
+C:\MyProjects\IBS\InternetBankingSystemSolution\Resources\obj\Debug\net6.0\ref\Resources.dll

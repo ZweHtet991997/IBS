@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\controllers\\transaction_topupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\controllers\\transaction_topupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\controllers\\apicontroller\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\controllers\\apicontroller\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\services\\common\\dboperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\services\\common\\dboperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\services\\account\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\services\\account\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\services\\apiservices\\customerapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\services\\apiservices\\customerapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\controllers\\apicontroller\\transaction_topupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\controllers\\apicontroller\\transaction_topupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\controllers\\apicontroller\\customerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\controllers\\apicontroller\\customerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\services\\apiservices\\adminapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\services\\apiservices\\adminapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\services\\apiservices\\accountapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\services\\apiservices\\accountapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\helper\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\helper\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\controllers\\exceptionhandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\controllers\\exceptionhandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\helper\\httpstatuscodetocsustomcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\helper\\httpstatuscodetocsustomcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\services\\apiservices\\iadminapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\services\\apiservices\\iadminapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\services\\transactionandtopup\\transactionandtopupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\services\\transactionandtopup\\transactionandtopupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_frontendapi\\models\\depositemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390C8153-6850-43AE-A266-A02DD8F85F95}|IBS_FrontendApi\\IBS_FrontendApi.csproj|solutionrelative:ibs_frontendapi\\models\\depositemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\controllers\\apicontroller\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\controllers\\apicontroller\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|c:\\myprojects\\ibs\\internetbankingsystemsolution\\ibs_backendapi\\services\\report\\transactionreportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B100BB-918C-4A44-82BC-3B82C6A3677E}|IBS_BackendApi\\IBS_BackendApi.csproj|solutionrelative:ibs_backendapi\\services\\report\\transactionreportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Program.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Program.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Program.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:51:54.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction_TopUpController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\Transaction_TopUpController.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Controllers\\Transaction_TopUpController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\Transaction_TopUpController.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Controllers\\Transaction_TopUpController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:51:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:51:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction_TopUpController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\Transaction_TopUpController.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Controllers\\ApiController\\Transaction_TopUpController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\Transaction_TopUpController.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Controllers\\ApiController\\Transaction_TopUpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:51:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerApiServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\CustomerApiServices.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Services\\ApiServices\\CustomerApiServices.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\CustomerApiServices.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Services\\ApiServices\\CustomerApiServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:16:18.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\Account\\AccountServices.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Services\\Account\\AccountServices.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\Account\\AccountServices.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Services\\Account\\AccountServices.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:31:42.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Program.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Program.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:49:32.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBOperationService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\Common\\DBOperationService.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Services\\Common\\DBOperationService.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\Common\\DBOperationService.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Services\\Common\\DBOperationService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T07:54:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:32:06.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountApiServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\AccountApiServices.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Services\\ApiServices\\AccountApiServices.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\AccountApiServices.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Services\\ApiServices\\AccountApiServices.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:23:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountApiController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\AccountApiController.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Controllers\\ApiController\\AccountApiController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\AccountApiController.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Controllers\\ApiController\\AccountApiController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowC8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:37:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerApiController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\CustomerApiController.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Controllers\\ApiController\\CustomerApiController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\CustomerApiController.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Controllers\\ApiController\\CustomerApiController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:37:25.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminApiServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\AdminApiServices.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Services\\ApiServices\\AdminApiServices.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\AdminApiServices.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Services\\ApiServices\\AdminApiServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:31:01.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HttpStatusCodeToCsustomCode.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Helper\\HttpStatusCodeToCsustomCode.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Helper\\HttpStatusCodeToCsustomCode.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Helper\\HttpStatusCodeToCsustomCode.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Helper\\HttpStatusCodeToCsustomCode.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:09:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Helper\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Helper\\ValidationHelper.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Helper\\ValidationHelper.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Helper\\ValidationHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:09:58.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionHandlerController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\ExceptionHandlerController.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Controllers\\ExceptionHandlerController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Controllers\\ExceptionHandlerController.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Controllers\\ExceptionHandlerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwB8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T06:40:40.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAdminApiServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\IAdminApiServices.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Services\\ApiServices\\IAdminApiServices.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Services\\ApiServices\\IAdminApiServices.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Services\\ApiServices\\IAdminApiServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:31:24.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionAndTopupServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\TransactionAndTopUp\\TransactionAndTopupServices.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Services\\TransactionAndTopUp\\TransactionAndTopupServices.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\TransactionAndTopUp\\TransactionAndTopupServices.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Services\\TransactionAndTopUp\\TransactionAndTopupServices.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T07:53:30.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepositeModel.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Models\\DepositeModel.cs",
+              "RelativeDocumentMoniker": "IBS_FrontendApi\\Models\\DepositeModel.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_FrontendApi\\Models\\DepositeModel.cs",
+              "RelativeToolTip": "IBS_FrontendApi\\Models\\DepositeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:38:44.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminApiController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\AdminApiController.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Controllers\\ApiController\\AdminApiController.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Controllers\\ApiController\\AdminApiController.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Controllers\\ApiController\\AdminApiController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:37:08.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionReportServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\Report\\TransactionReportServices.cs",
+              "RelativeDocumentMoniker": "IBS_BackendApi\\Services\\Report\\TransactionReportServices.cs",
+              "ToolTip": "C:\\MyProjects\\IBS\\InternetBankingSystemSolution\\IBS_BackendApi\\Services\\Report\\TransactionReportServices.cs",
+              "RelativeToolTip": "IBS_BackendApi\\Services\\Report\\TransactionReportServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:32:05.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "59iYjIIciKHYwi159m859w4frEBGBP5jhdOGwb7KstI=",
+  "Source": "IBS_FrontendApi",
+  "BasePath": "_content/IBS_FrontendApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
